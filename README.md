@@ -1,4 +1,4 @@
-# ibm_data_science_capstone
+# ibm-data-science-capstone
 Final project for the IBM Applied Data Science Capstone course
 
 ## [Project: Deciding on a New Restaurant for Johnson City, Tennessee](https://github.com/burrittresearch/IBM_Coursera_Capstone 'Project')
