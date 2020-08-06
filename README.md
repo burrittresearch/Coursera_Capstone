@@ -1,2 +1,2 @@
-# Coursera_Capstone
+# IBM_Coursera_Capstone
 Final assignments for the Applied Data Science Capstone course
