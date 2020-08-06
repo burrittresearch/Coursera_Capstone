@@ -14,9 +14,9 @@ Final project for the IBM Applied Data Science Capstone course
 
 ## Contact: Jonathan Burritt    
 
-> ### [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com)
-> ### [LinkedIn](https://www.linkedin.com/in/burrittresearch/ "Burritt Research LinkedIn")
-> ### [Twitter](https://twitter.com/burrittresearch/ "Burritt Research Twitter")
+### [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com)
+### [LinkedIn](https://www.linkedin.com/in/burrittresearch/ "Burritt Research LinkedIn")
+### [Twitter](https://twitter.com/burrittresearch/ "Burritt Research Twitter")
 
 ## License
 Distributed under the MIT License -- see LICENSE for more information
