@@ -3,7 +3,7 @@ Final project for the IBM Applied Data Science Capstone course
 
 ## [Project: Deciding on a New Restaurant for Johnson City, Tennessee](https://github.com/burrittresearch/IBM_Coursera_Capstone 'Project')
 
-* Provided data analysis for on opening a new restaurant in dowtown Johnson City, Tennessee
+* Provided data analysis for opening a new restaurant in dowtown Johnson City, Tennessee
 * Wrangled data from Foursquare and the U.S. Census Bureau into dataframes, folium maps, and bar plots
 * With insufficient data for predictive modeling, solved the business problem with exploratory data analysis
 * Delivered a Jupyter notebook, full report, and powerpoint presentation
