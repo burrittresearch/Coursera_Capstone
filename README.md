@@ -22,4 +22,5 @@ Final project for the IBM Applied Data Science Capstone course
 This project is distributed under the [MIT License](https://github.com/burrittresearch/ibm-data-science-capstone/blob/master/LICENSE.md 'MIT License'). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT 'Open Source Initiative').
 
 
-## [Project Link](https://github.com/burrittresearch/IBM_Coursera_Capstone 'Project')
+## Project Link
+[ibm-data-science-capstone](https://github.com/burrittresearch/ibm-data-science-capstone 'Project')
