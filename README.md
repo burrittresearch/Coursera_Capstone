@@ -16,7 +16,7 @@ Final project for the IBM Applied Data Science Capstone course
 
 ### [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com)
 ### [LinkedIn](https://www.linkedin.com/in/burrittresearch/ "Burritt Research LinkedIn")
-### [Twitter](https://twitter.com/burrittresearch/ "Burritt Research Twitter")
+### [@burrittresearch](https://twitter.com/burrittresearch/ "Burritt Research Twitter")
 
 ## Project Link
 [https://github.com/burrittresearch/ibm-data-science-capstone](https://github.com/burrittresearch/ibm-data-science-capstone 'Project')
