@@ -8,9 +8,9 @@ Final project for the IBM Applied Data Science Capstone course
 * With insufficient data for predictive modeling, solved the business problem with exploratory data analysis
 * Delivered a Jupyter notebook, full report, and powerpoint presentation
     
-    > ### [Jupyter notebook](https://github.com/burrittresearch/IBM_Coursera_Capstone/blob/master/capstone_project_report_jb_wk2.pdf 'Notebook')
-    > ### [Report](https://github.com/burrittresearch/IBM_Coursera_Capstone/blob/master/capstone_project_neigh_wk2_jb.ipynb 'Report')
-    > ### [Powerpoint](https://github.com/burrittresearch/IBM_Coursera_Capstone/blob/master/capstone_project_presentation_jb_wk2.pdf 'Presentation')
+    > ### [Jupyter notebook](https://github.com/burrittresearch/ibm-data-science-capstone/blob/master/capstone_project_report_jb_wk2.pdf 'Notebook')
+    > ### [Report](https://github.com/burrittresearch/ibm-data-science-capstone/blob/master/capstone_project_neigh_wk2_jb.ipynb 'Report')
+    > ### [Powerpoint](https://github.com/burrittresearch/ibm-data-science-capstone/blob/master/capstone_project_presentation_jb_wk2.pdf 'Presentation')
 
 ## Contact: Jonathan Burritt    
 
